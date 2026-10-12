@@ -1,0 +1,48 @@
+# ==============================
+# LangChain Core
+# ==============================
+langchain
+langchain-core
+langchain-community
+
+# ==============================
+# OpenAI
+# ==============================
+langchain-openai
+openai
+
+# ==============================
+# Anthropic Claude
+# ==============================
+langchain-anthropic
+anthropic
+
+# ==============================
+# Google Gemini
+# ==============================
+langchain-google-genai
+google-genai
+
+# ==============================
+# Hugging Face
+# ==============================
+langchain-huggingface
+transformers
+huggingface-hub
+
+# ==============================
+# Environment Variables
+# ==============================
+python-dotenv
+
+# ==============================
+# Machine Learning / Data
+# ==============================
+numpy
+scikit-learn
+
+# ==============================
+# Jupyter / Development
+# ==============================
+jupyter
+ipykernel
